@@ -1,4 +1,4 @@
-Source Type,F_tot[CH4] (kg/hr),F_tot[CH4] Error (kg/hr),F_tot[C2H6] (kg/hr),F_tot[C2H6] Error (kg/hr),Wind_Speed_avg (m/s),Wind_Direction_avg (deg),Temperature_avg (C),Pressure_avg (C),Transects,Duration (min),Date,Data Location
+Source Type,F_tot[CH4] (kg/hr),F_tot[CH4] Error (kg/hr),F_tot[C2H6] (kg/hr),F_tot[C2H6] Error (kg/hr),Wind_Speed_avg (m/s),Wind_Direction_avg (deg),Temperature_avg (C),Pressure_avg (hPa),Transects,Duration (min),Date,Data Location
 Controlled Release,1342.623724,233.644799,25.830538,8.943183000000001,2.629,391.115,12.746,969.93,10,17:59,11/15/2022,./data/00_Controlled_Release
 Controlled Release,22.90418,3.021161,1.475343,0.431135,4.274,318.916,11.163,974.844,7,28:29,11/16/2022,./data/01_Controlled_Release
 Controlled Release,15.299878000000001,2.1201909999999997,0.961781,0.28094,4.546,363.896,15.123,974.178,7,10:59,11/16/2022,./data/02_Controlled_Release
