@@ -8,8 +8,7 @@ message: >-
   from this file.
 type: dataset
 authors:
-  - given-names: Jonathan
-    name-particle: F
+  - given-names: Jonathan F
     family-names: Dooley
     email: jonathan.dooley@student.nmt.edu
     affiliation: New Mexico Institute of Mining and Technology
